@@ -1,0 +1,16 @@
+use minimercado;
+select *from cidade;
+select *from cliente;
+select *from codpostal;
+select *from emails;
+select *from fatura;
+select *from fatura_produto;
+select *from funcionario;
+select *from listacontactos;
+select *from localizacao;
+select *from minimercado;
+select *from minimercado_cliente;
+select *from nr_telemovel;
+select *from pais;
+select *from produto;
+select *from rua;
